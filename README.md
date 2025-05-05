@@ -52,6 +52,6 @@ Cada exercício é um arquivo .js separado. Para rodar qualquer exercício, bast
  ```bash
 node nome-do-arquivo.js
 Exemplo para rodar o primeiro exercício:
-node exercicio1.js
+node ex01.js
 ```
 
